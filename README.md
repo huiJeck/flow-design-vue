@@ -22,6 +22,10 @@
 ## demo预览
 地址：https://zh888.gitee.io/flow-demo/#/
 
+## 其他流程引擎解决方案扩展
+方案一：https://zh888.gitee.io/logicflow-vue-bpm-demo-ing/#/
+方案二：https://gitee.com/zh888/dagre-d3-self-demo
+
 ## 截图
 ### 设计模式
 ![输入图片说明](39dbfa7f0ead8236425f2cfc61a5d6c.png)
