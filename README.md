@@ -20,7 +20,7 @@
 6、支持审批预览模式，不同颜色代表不同状态等功能。
 
 ## demo预览
-地址：https://zh888.gitee.io/flow-demo/#/
+地址：https://huijeck.github.io/flow-design-vue/#/
 
 ## 其他流程引擎解决方案扩展
 方案一：https://zh888.gitee.io/logicflow-vue-bpm-demo-ing/#/
