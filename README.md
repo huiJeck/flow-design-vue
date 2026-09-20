@@ -28,9 +28,9 @@
 
 ## 截图
 ### 设计模式
-![输入图片说明](39dbfa7f0ead8236425f2cfc61a5d6c.png)
+![输入图片说明](sjms.png)
 ### 审批预览模式
-![输入图片说明](4208656014e640fb4822a53cf9a9546.png)
+![输入图片说明](spms.png)
 
 ## 咨询
 <img width="218" alt="44212f10b206beed6af7d3a1504812d" src="https://github.com/huiJeck/flow-design-vue/assets/22268904/f08a8e5d-36a1-41f3-b2f2-c617d590cc1d">
